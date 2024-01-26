@@ -45,7 +45,7 @@ const UpdateProduct = () => {
   
   return (
     <div>
-      <h1 style={{ paddingLeft: "450px", marginTop: "1.5rem", marginBottom: "1.5rem" }}>Editar Producto</h1>
+      <h1 style={{ paddingLeft: "450px", marginTop: "1.5rem", marginBottom: "1.5rem"}}>Editar Producto</h1>
       <input
         type="text"
         placeholder="Titulo"
